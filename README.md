@@ -1,4 +1,4 @@
 # PoC-Purgatory
 
-* 20 Questions classification and feature engineering example with Alberta Major Projects dataset
-* House Move Tetris (to be cloned)
+* 20 Questions Estimate Classification
+* House Move Tetris
