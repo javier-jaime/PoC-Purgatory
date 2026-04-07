@@ -4,4 +4,4 @@
 * House Move Tetris
 * Route Recommender
   
-![Reactive Loop](../Second-Brain/images/Reactive_Loop.png)
+![Reactive Loop](/Second-Brain/images/Reactive_Loop.png)
