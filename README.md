@@ -4,4 +4,4 @@
 * House Move Tetris
 * Route Recommender
 
-![20 Questions](,,/Major-Projects-20-Questions/Major-Projects-20-Questions.ipynb)
+![20 Questions](,,/README.md)
