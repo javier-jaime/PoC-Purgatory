@@ -4,4 +4,3 @@
 * House Move Tetris
 * Route Recommender
 
-![Home](../README.md)
