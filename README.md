@@ -1,9 +1,9 @@
 # PoC-Purgatory
 
 * 20 Questions Estimate
-* House Move Tetris
 * Route Recommender
-* Lasagna for Parrots
-  
+* Stock Forecasting
+* House Move Tetris
+* Lasagna for Parrots 
   ![Lasagna for Parrots](Lasagna_for_Parrots.png)
 
