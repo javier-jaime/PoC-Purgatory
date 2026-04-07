@@ -2,6 +2,7 @@
 
 * 20 Questions Estimate
 * Route Recommender
+* Bullshit Spotter
 * Stock Forecasting
 * House Move Tetris
 * Lasagna for Parrots 
